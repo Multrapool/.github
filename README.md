@@ -1,3 +1,0 @@
-# Multrapool...
-
-...is the organization that makes modding for Ultrapool possible. you can be part of it too, if you contribute to any of our repositories :3 prs welcome!
